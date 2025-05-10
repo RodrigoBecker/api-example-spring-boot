@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: io.github.example_java_api.ExampleJavaApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.287 s -- in io.github.example_java_api.ExampleJavaApiApplicationTests
